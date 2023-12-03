@@ -1,18 +1,18 @@
 # React Dynamic Dashboard Application
 
-
-
-## Available Scripts
-
-
-
-### `npm start`
-
-
-### `npm test`
+## Features
 
 
 
 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+
+
+### `Edge Cases`
+
+
+
+
+
+**created by shivang**
